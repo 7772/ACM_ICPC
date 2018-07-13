@@ -11,7 +11,6 @@
 using namespace std;
 
 // Bad code
-
 // int main() {
 //     int test_case;
 //     int i, sum = 0;
@@ -39,12 +38,12 @@ using namespace std;
 int main() {
     int test_case;
     int i, sum = 0;
+    char ch;
 
     cin >> test_case;
     if(test_case < 1 || test_case > 100) return 0;
 
     for(i = 0; i < test_case; i++) {
-        char ch;
         cin >> ch;
         sum += ch - '0';
     }
