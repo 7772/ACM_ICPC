@@ -9,6 +9,8 @@
 
 using namespace std;
 
+
+// Iterative DP
 int main() {
     int DP[1001];
     int i, n;
