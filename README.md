@@ -1,16 +1,8 @@
 ## ACM_ICPC
----
 
-이 레포지토리는 Problem Solving 공부 과정에 관한 코드를 게재하려 만들었습니다.
 
-[백준 알고리즘 사이트](https://www.acmicpc.net/)에 문제번호를 파일의 이름으로 설정하였으므로
-
-알고싶은 문제를 쉽게 파악하실 수 있을 겁니다.
-
-이 레포지토리의 모든 코드는 자유롭게 사용하셔도 무방합니다.
-
-단, 당신의 블로그나 어떠한 플랫폼에 본 레포지토리의 코드를 게재하실 경우
-
-출처를 https://github.com/7772/ACM_ICPC 로 밝혀 주시면 감사하겠습니다.
+The file name of this repository is the number of [Backjoon-Algorithm Site](https://www.acmicpc.net/).
+    You can see all the problems at [Backjoon-Algorithms Site](https://www.acmicpc.net/). Of caulse You can use the codes in this repo, but **Please disclose the source, "https://github.com/7772/ACM_ICPC".** 
+    Also, If you know how to read korean, You can see the solution of these problems written in korean in my tistory blog, [Here](https://7772-development.tistory.com). And there, I have posted the detailed solutions. 
 
 
