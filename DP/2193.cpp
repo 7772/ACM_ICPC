@@ -10,8 +10,8 @@
 using namespace std;
 
 int main() {
-    signed long DP[91][2] = {0,};
-    signed long ans = 0;
+    unsigned long long DP[91][2] = {0,};
+    unsigned long long ans = 0;
     int i, N;
 
     cin >> N;
