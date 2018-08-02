@@ -13,7 +13,6 @@ int max(int a, int b, int c) {
     return (a > b) ? ( (a > c) ? (a) : (c) ) : ( (b > c) ? (b) : (c) );
 }
 
-// 일반적인 방법
 int main() {
     int DP[10001] = { 0, };
     int arr[10001] = { 0, };
